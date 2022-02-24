@@ -1,1 +1,1 @@
-# Archethic assets (logos, icons, images, ...)
+# ARCHEthic assets (logos, icons, images, ...)
