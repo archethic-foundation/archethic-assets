@@ -2,17 +2,30 @@
 
 Welcome to the Archethic Assets repository! This repository provides you all the relevant assets Archethic uses.
 
-## Archethic Products Assets
+## Archethic Aelogo
 
-This folder contains all the assets that will be utilized for development of Archethic Products.
+This folder contains Aelogo's in different dimensions.
 
-## Archethic Wallet Assets
+## Archethic Colors
 
-Similarly, this folder contains all the assets used in Archethic Wallet.
+Similarly, this folder contains all the colors used by Archethic.
 
-## Archethic Website Assets
+## Archethic Exchanges
 
-The assets used in Archethic Website are inside this folder.
+The images of official Archethic exchanges are inside this folder.
+
+## Archethic Exchanges
+
+This folder contains the fonts used by Archethic.
+
+## Archethic Exchanges
+
+The images such as background and uco-split are inside this folder.
+
+## Archethic Logos
+
+The official logos of Archethic are inside this folder.
+
 
 ## The Official Links of Archethic Public Blockchain
 
