@@ -1,0 +1,91 @@
+@import url("https://fonts.cdnfonts.com/css/telegraf");
+
+:root {
+  /* Archethic Neutral */
+  --neutral-1000: #000000;
+  --neutral-900: #131313;
+  --neutral-800: #202020;
+  --neutral-700: #4f4f4f;
+  --neutral-600: #6f6f6f;
+  --neutral-500: #8f8f8f;
+  --neutral-400: #b1b1b1;
+  --neutral-300: #d7d7d7;
+  --neutral-200: #eaedf0;
+  --neutral-100: #f1f2f5;
+  --neutral-50: #f5f6f8;
+  --neutral-40: #f8f9fa;
+  --neutral-0: #ffffff;
+
+  /* Archethic Brand */
+  --purple800: #201844;
+  --purple500: #4027a2;
+  --purple300: #8c7dc7;
+  --purple200: #b3a9da;
+  --purple50: #ece9f6;
+
+  --blue900: #140a2f;
+  --blue800: #39147f;
+  --blue500: #562fed;
+  --blue300: #896df2;
+  --blue200: #ccc1fa;
+  --blue50: #eeeafd;
+
+  --plum800: #3d1d63;
+  --plum500: #7a3ac6;
+  --plum300: #9948f7;
+  --plum200: #cca4fb;
+  --plum50: #f5edfe;
+
+  --raspberry800: #552566;
+  --raspberry500: #9816c5;
+  --raspberry300: #d55cff;
+  --raspberry200: #eaaeff;
+  --raspberry50: #fbefff;
+
+  /* Archethic Gradients */
+  --gadientpinkpurpule500: linear-gradient(180deg, #d55cff 100%, #562fed 100%);
+
+  /* Archethic System */
+  --systeminfo800: #2071bd;
+  --systeminfo500: #3693e9;
+  --systeminfo300: #c3dff9;
+  --systeminfo100: #deefff;
+  --systeminfo50: #ebf4fd;
+
+  --systemdanger800: #ae2229;
+  --systemdanger500: #da2a33;
+  --systemdanger300: #fabcc2;
+  --systemdanger100: #ffdde0;
+  --systemdanger50: #fde9eb;
+
+  --systemwarning800: #d4ad24;
+  --systemwarning500: #edc844;
+  --systemwarning300: #ffeaa1;
+  --systemwarning100: #fff2c6;
+  --systemwarning50: #fff9db;
+
+  --systempositive800: #3c8550;
+  --systempositive500: #4eb46a;
+  --systempositive300: #cae8d2;
+  --systempositive100: #ddeee2;
+  --systempositive50: #edf7f0;
+
+  --color-background: var(--neutral-900);
+  --color-background-secondary: var(--blue800);
+  --color-background-gradient: radial-gradient(
+    circle,
+    var(--plum500) 0%,
+    var(--neutral-1000) 95%
+  );
+}
+
+body {
+  margin: 0;
+  overflow-x: hidden;
+  font-size: 0.9rem;
+  color: var(--neutral-0);
+  min-height: 100vh;
+  background: var(--color-background);
+  background: var(--color-background-gradient);
+  font-family: "Telegraf", sans-serif;
+}
